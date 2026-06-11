@@ -1,7 +1,5 @@
 # Mexico vs South Africa FIFA World Cup 2026 Prediction Analysis
 
-![Project Cover](presentation/sports_analytics_cover.png)
-
 ## Project Overview
 
 This project uses Python and data science methods to analyse and predict the FIFA World Cup 2026 opening match between **Mexico** and **South Africa**.
