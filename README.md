@@ -1,4 +1,3 @@
-# Football-Prediction-FIFA-026-Mexico-Vs-South-Africa
 # Mexico vs South Africa FIFA World Cup 2026 Prediction Analysis
 
 ![Project Cover](presentation/sports_analytics_cover.png)
